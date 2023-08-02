@@ -1,4 +1,4 @@
-### Hi there 👋
+### Future Notes Will Be Placed Here 👋
 
 <!--
 **gamgt/gamgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
